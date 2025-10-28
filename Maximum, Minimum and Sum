@@ -1,0 +1,4 @@
+my_list= [5, 8, 12, 3, 7]
+print("Max:", max(nums))
+print("Min:", min(nums))
+print("Sum:", sum(nums))
