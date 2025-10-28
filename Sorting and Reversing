@@ -1,0 +1,5 @@
+my_list= [4, 1, 9, 2]
+my_list.sort()
+print("Sorted:", my_list)
+nums.reverse()
+print("Reversed:", my_list)
